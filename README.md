@@ -1,7 +1,6 @@
 # Kütüphaneler
 
 - react-router-dom
-- React için yönlendirme kitaplığıdır. Sayfalar arasında
 - bootstrap
 - react-bootstrap
 - react-select
